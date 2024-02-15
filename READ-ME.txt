@@ -1,9 +1,1 @@
-  =>  Template Name    : AI.Tech - Artificial Intelligence HTML Template
 
-  =>  Template Link    : https://htmlcodex.com/artificial-intelligence-html-template
-
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
-
-  =>  Template Author  : PHOENIX
-
-  =>  Author Website   : https://htmlcodex.com
